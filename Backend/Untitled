@@ -1,0 +1,2 @@
+git remote add origin https://github.com/yourusername/my-cursor-project.git
+git branch -M main
